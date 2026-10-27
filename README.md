@@ -69,8 +69,4 @@ A modern social media application built with React, featuring authentication, pr
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=MohamedOsama1907&theme=dark&hide_border=true&layout=compact)
 
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohamedOsama1907&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
-
-*Thanks for visiting my profile!* 🚀
